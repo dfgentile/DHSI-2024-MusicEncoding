@@ -3548,16 +3548,19 @@
                      	<rdg source="#leech-wilkinson">
                      		<harm place="above" staff="2" tstamp="1">(♮)</harm>
                      	</rdg>
+                        <rdg source="#organum"></rdg>
                      </app>
                      <app>
                      	<rdg source="#leech-wilkinson">
                      		<harm place="above" staff="3" tstamp="1">♯(♮)</harm>
                      	</rdg>
+                        <rdg source="#organum"></rdg>
                      </app>
                      <app>
                      	<rdg source="#leech-wilkinson">
                         	<harm place="above" staff="1" tstamp="2">(♮)</harm>
                         </rdg>
+                        <rdg source="#organum"></rdg>
                      </app>
                   </measure>
                   <measure xml:id="mg79nk0" n="95" right="end">
