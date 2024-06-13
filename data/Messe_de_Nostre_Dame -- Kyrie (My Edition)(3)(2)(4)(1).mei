@@ -1039,7 +1039,7 @@
                               <note xml:id="n1wncmoi" dur="8" dur.ppq="1" oct="4" pname="b" stem.dir="up">
                                  <app>
                                     <rdg source="#leech-wilkinson"></rdg>
-                                    <rdg><accid xml:id="avjm5uf" accid="f"/></rdg>
+                                    <rdg source="#organum"><accid xml:id="avjm5uf" accid="f"/></rdg>
                                  </app>
                                  <verse xml:id="v13r4g13" n="1">
                                     <syl xml:id="s1rhgp38" con="s" wordpos="t">ste</syl>
